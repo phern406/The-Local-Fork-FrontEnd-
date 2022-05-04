@@ -1,3 +1,28 @@
+The Local Fork. 
+
+Patrtick worked on. 
+-The react Framwork. Created the entire React Front-End Framework. 
+-Connected the Front-End to the Back-End with Axios. 
+-Create the routes on the FrontEnd for the CRUD operations. 
+-Made the Front-end has sercutiry. 
+-Made the conditional rendering that was pulled into the search bar.
+-Worked on some styling with Bootstrap.
+
+Jada worked on. 
+-The BackEnd.
+-The database 
+-Styling.
+-The Map function.
+
+Chad worked on. 
+-The Wireframe and design. 
+-Styling 
+-Search function. 
+-Database 
+-BackEnd Routes.
+
+
+
 <<<<<<< HEAD
 =======
 # Getting Started with Create React App
